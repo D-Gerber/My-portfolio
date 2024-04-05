@@ -89,8 +89,8 @@ section {
 }
 
 .imgContainer {
-    border-radius: 100%;
-    max-width: 114px;
+    border-radius: 20%;
+    max-width: 250px;
     overflow: hidden;
 }
 
@@ -124,7 +124,7 @@ section {
 }
 
 .aboutMe {
-    line-height: 1.5em;
+    line-height: 2em;
 }
 
 .outreach {

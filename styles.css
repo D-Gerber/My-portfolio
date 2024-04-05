@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #ff0000;
+    --primary-color: #00fff2;
     --secondary-color: #ffffff;
-    --bg-color: #1b0000;
+    --bg-color: #040027;
 }
 
 * {
@@ -55,6 +55,7 @@ h1 {
 p {
     font-size: 1.05em;
 }
+
 
 header {
     display: flex;

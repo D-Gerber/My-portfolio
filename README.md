@@ -1,2 +1,3 @@
 # My Portfolio
- This is mt portfolio where my developing journey started
+
+This is my portfolio where my developing journey started
